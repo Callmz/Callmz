@@ -1,17 +1,20 @@
 ####
 <div align="center">
   <a href="https://github.com/Callmz">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=KwidRebaixada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwidRebaixada&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Callmz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callmz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="-Blender" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+  <img align="center" alt="-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="-After Effects" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg">
+  <img align="center" alt="-Premiere Pro" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg">
+  <img align="center" alt="-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/gKXJyiQ.png">
 </div>
